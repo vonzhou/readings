@@ -1,13 +1,19 @@
 # 我的读书历程
 
 
-## 计算机科学
+## Computer Science 计算机科学
 
 
 - [ ] 《A Philosophy of Software Design》 [视频](https://www.youtube.com/watch?v=bmSAYlu0NcY)
 
 
 ### Linux/Unix
+
+- [x] 《Unix环境高级编程》APUE :+1:
+- [x] 《Unix网络编程卷1：套接字联网API》 :+1:
+- [x] 《Unix网络编程卷2：进程间通信》 :+1:
+- [x] 《深入理解Linux内核》 :+1:
+- [x] 《Linux内核设计与实现 第3版》
 
 ### Java
 
@@ -25,7 +31,7 @@
 ### Scala
 
 - [ ] 《Scala编程（第3版）》
-- [x]《快学Scala》
+- [x] 《快学Scala》
 
 
 ### Golang
@@ -49,12 +55,20 @@
 
 ## 历史
 
+- [ ] 《巨流河 台版》
 - [x] 《紫禁城的黄昏》 
+- [x] 《万历十五年》
+- [x] 《明朝那些事儿》
 
 
 
 
 ## 文学/小说
 
+- [x] 《活着为了讲述》
+- [x] 《百年孤独》
 - [x] 《相约星期二》
 - [x] 《解忧杂货店》
+- [x] 《活着》
+- [x] 《围城》
+
