@@ -3,8 +3,14 @@
 
 ## Computer Science 计算机科学
 
+### Basics 通识/基础/经典
 
 - [ ] 《A Philosophy of Software Design》 [视频](https://www.youtube.com/watch?v=bmSAYlu0NcY)
+- [x] 《程序员修炼之道 从小工到专家》 :+1:
+- [ ] 《代码大全》
+- [x] [《深入理解计算机系统 第2版》](https://github.com/vonzhou/CSAPP) :+1:
+- [x] 《TCP/IP详解卷1：协议》 
+- [x] 《重构 改善既有代码的设计》
 
 
 ### Linux/Unix
@@ -46,12 +52,22 @@
 - [x] 《Hadoop: The Definitive Guide : 4th Edition》 2018.10.7  :+1:
 - [x] 《Kafka权威指南》 2018.6.15 :+1:
 
+### Database 数据库
 
+- [ ] 《高性能MySQL》 :+1:
+- [x] 《MySQL技术内幕 InnoDB存储引擎》 :+1:
+- [x] 《Redis设计与实现》
 
 ### Architecture 架构
 - [x] 《Clean Architecture》 2019.1.8 :+1:
 - [x] 《Designing Data-Intensive Applications》 2018.1.30 :+1:
 - [x] 《大型网站技术架构演进与性能优化》 2018.10.10
+
+
+
+## 创业/管理
+
+- [x] 《重来 Rework》
 
 ## 历史
 
@@ -71,4 +87,11 @@
 - [x] 《解忧杂货店》
 - [x] 《活着》
 - [x] 《围城》
+
+## 其他
+
+- [x] 《如何阅读一本书》 :+1:
+
+
+
 
