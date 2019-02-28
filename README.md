@@ -8,7 +8,7 @@
 - [ ] 《A Philosophy of Software Design》 [视频](https://www.youtube.com/watch?v=bmSAYlu0NcY)
 - [x] 《程序员修炼之道 从小工到专家》  2017.11.14    :+1:
 - [ ] 《代码大全》
-- [x] [《深入理解计算机系统 第2版》](https://github.com/vonzhou/CSAPP) :+1:
+- [x] 《深入理解计算机系统 第2版》| [代码](https://github.com/vonzhou/CSAPP) :+1:
 - [x] 《TCP/IP详解卷1：协议》 
 - [x] 《重构 改善既有代码的设计》
 
@@ -26,14 +26,14 @@
 
 - [x] 《RocketMQ实战与原理解析》2019.1.27
 - [x] 《分布式Java应用 : 基础与实践》2019.1.25
-- [x] 《实战Java高并发程序设计》2018.11.6 :+1:
+- [x] 《实战Java高并发程序设计》| [代码](https://github.com/vonzhou/learning-java/tree/master/src/PracticeJavaHighConcurrency)   2018.11.6 :+1:
 - [x] 《深入剖析Tomcat》 2018.10.28 :+1:
 - [x] 《MyBatis技术内幕》 2018.10.20 :+1:
 - [x] 《HotSpot实战》 2018.3.14 :+1:
-- [x] 《Java并发编程实战》  2018.2.25  :+1:
-- [x] 《深入理解Java虚拟机（第2版）》  :+1:
+- [x] 《Java并发编程实战》| [代码](https://github.com/vonzhou/JavaConcurrencyInPractice)  2018.2.25  :+1:
+- [x] 《深入理解Java虚拟机（第2版）》| [代码](https://github.com/vonzhou/learning-java/tree/master/src/jvm)  :+1:
 - [x] 《大型网站系统与Java中间件实践》  2018.5.22
-- [x] 《Java 8实战》 2017.11.7
+- [x] 《Java 8实战》| [代码](https://github.com/vonzhou/Java8InAction) 2017.11.7
 
 ### Scala
 
